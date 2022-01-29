@@ -80,6 +80,7 @@ For more details on how to use SNIC implementation please refer to https://githu
 The seed generator implemented here is based on the following publication:
 
 "Adaptive Centroid Placement Based SNIC for Superpixel Segmentation"
+https://ieeexplore.ieee.org/document/9185361
 ```
 @INPROCEEDINGS{9185361,  
   author={Bandara Senanayaka, Janith and Thilanka Morawaliyadda, Dilshan and Tharuka Senarath, Shehan and Indika Godaliyadda, Roshan and Parakrama Ekanayake, Mervyn},  
@@ -95,6 +96,7 @@ The seed generator implemented here is based on the following publication:
 The SNIC algorithm is based on the following publication:
 
 "Superpixels and Polygons using Simple Non-Iterative Clustering"
+https://ieeexplore.ieee.org/document/8100003
 ```
 @inproceedings{snic_cvpr17,
   author = {Achanta, Radhakrishna and Susstrunk, Sabine},
